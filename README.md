@@ -71,7 +71,7 @@ A responsive lead capture page designed to collect demo requests or qualified le
 - Google Sheets
 - Canva
 - Snagit
-- ChatGPT / Gemini for AI-assisted workflow support
+- ChatGPT / Gemini / Claude for AI-assisted workflow support
 
 ## What This Portfolio Demonstrates
 
